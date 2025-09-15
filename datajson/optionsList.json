@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Vanti Listo",
+    "class": "ZFM6",
+    "roles": [
+      "GUSALIQTERC",
+      "TestGroup"
+    ],
+    "environments": [
+      "test",
+      "local",
+      "dev",
+      "qa",
+      "prod"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Liquidación de ajustes Vanti Listo",
+    "class": "ZFM6",
+    "roles": [
+      "GUSALIQTERC",
+      "TestGroup"
+    ],
+    "environments": [
+      "test",
+      "local",
+      "dev",
+      "qa",
+      "prod"
+    ]
+  },
+  {
+    "id": 4,
+    "class": "ZFM6",
+    "roles": [
+      "GUSALIQTERC",
+      "TestGroup"
+    ],
+    "name": "Liquidación Masiva",
+    "environments": [
+      "test",
+      "local",
+      "dev",
+      "qa"
+    ]
+  },
+  {
+    "id": 5,
+    "class": "ZFM6",
+    "roles": [
+      "GUSALIQTERC",
+      "TestGroup"
+    ],
+    "name": "Liquidación de ajustes Masiva",
+    "environments": [
+      "test",
+      "local",
+      "dev",
+      "qa"
+    ]
+  },
+  {
+    "id": 3,
+    "class": "ZFM6",
+    "roles": [
+      "GUSALIQTERC",
+      "TestGroup"
+    ],
+    "name": "Administración de correos",
+    "environments": [
+      "test",
+      "local",
+      "dev",
+      "qa",
+      "prod"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "OptionsListMenu",
+    "name": "name",
+    "code": "id",
+    "filter": "roles",
+    "value": "class",
+    "fileName": "optionsList",
+    "obtencionType": "dataJson"
+  }
+]
